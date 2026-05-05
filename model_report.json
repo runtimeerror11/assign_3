@@ -1,0 +1,14 @@
+{
+  "ResNet50": {
+    "test_accuracy": 0.9905660377358491,
+    "macro_f1": 0.9905525846702318,
+    "macro_auc": 1.0,
+    "best_val_acc": 0.9920948616600791
+  },
+  "EfficientNetB3": {
+    "test_accuracy": 1.0,
+    "macro_f1": 1.0,
+    "macro_auc": 1.0,
+    "best_val_acc": 0.9960474308300395
+  }
+}
