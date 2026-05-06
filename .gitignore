@@ -7,6 +7,9 @@ __pycache__/
 # Model weights (too large for GitHub – use Git LFS or download separately)
 # models/*.pth
 
+# Gemini advice cache (auto-generated)
+advice_cache.json
+
 # IDE / OS
 .vscode/
 .idea/
